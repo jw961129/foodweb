@@ -1,0 +1,41 @@
+body{
+	background-image: url("homebg.jpg");
+	background-position: 50% 100px;
+	background-repeat: no-repeat;
+	background-size: 100% 600px;
+	
+}
+
+.content{
+	text-align: center;
+	font-size:50px;
+	color:black;
+}
+
+.checktext{
+	text-align: center;
+	font-size: 20px;
+}
+
+.checkboxs{
+	text-align: center;
+}
+
+.startbtn{
+	text-align: center;
+}
+
+.subtext{
+	margin: 60px;
+	
+}
+
+table{
+
+    margin-top:3em;
+    height:3em;
+    width:100%;
+    text-align:center;
+    font-weight:bold;
+    font-style:italic;
+}

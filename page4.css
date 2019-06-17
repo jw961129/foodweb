@@ -1,0 +1,20 @@
+.foodvideo{
+	text-align : center;
+}
+
+
+.bottomdsn{
+	display:flex;
+}
+.ingredient{
+	margin-left:20px;
+	width:30%;
+}
+.cookrecipe{
+	padding-left:30px;
+	width:70%;
+	border-left:solid #000000;
+}
+a:link { color: red; text-decoration: none;}
+a:visited { color: black; text-decoration: none;}
+a:hover { color: blue; text-decoration: underline;}

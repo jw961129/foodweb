@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+h1 {
+margin-bottom: 50px;
+}
+
+body {
+	
+}
+
+.bigBox {
+	display : flex;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size : 30px;
+	text-align: center;
+}
+
+.box {
+	display : inline;
+	width : 500px;
+	margin-left : 3px;
+	margin-right : 3px;
+	flex-wrap : nowrap;
+
+}
+
+p.text{
+	text-align : center;
+	text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+	color: white;
+	font: 33px Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
+}
+
+.box:hover {
+	box-shadow: 0px 0px 2px 2px #111111;
+}
+table{
+
+    margin-top:3em;
+    height:3em;
+    width:100%;
+    text-align:center;
+    font-weight:bold;
+    font-style:italic;
+}
